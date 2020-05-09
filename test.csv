@@ -1,3 +1,6 @@
-Date,Company,Title,Level,Standard Level,Skill Index,Location,Total Yearly Compensation,Base Salary (/year),Stock Grant (/year),Bonus (/year),Years of Experience,Years at Company,Tag,Gender,Other Details
-2/7/20,Bloomberg,Software Engineer,Senior Software Engineer,Staff Engineer,65.59,"New York, NY",185000,160000,,25000,4,4,Full Stack,Male,
-2/7/20,Amazon,Software Engineer,Senior Software Engineer,Staff Engineer,65.59,"New York, NY",185000,160000,,25000,5,0,Full Stack,Male,Masters
+Date,Company,Location,Years of Experience,Years at Company,Tag,Gender,Other Details
+2/7/20,Bloomberg,"New York, NY",4,4,Full Stack,Male,
+2/7/20,Google,"New York, NY",4,0,Full Stack,Male,Masters
+2/7/20,Google,"New York, NY",0,0,Full Stack,Male,
+2/7/20,Google,"New York, NY",0,0,Full Stack,Male,
+2/7/20,Google,"New York, NY",0,0,Full Stack,Male,
