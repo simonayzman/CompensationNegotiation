@@ -1,6 +1,19 @@
-Date,Company,Location,Years of Experience,Years at Company,Tag,Gender,Other Details
-2/7/20,Bloomberg,"New York, NY",4,4,Full Stack,Male,
-2/7/20,Google,"New York, NY",4,0,Full Stack,Male,Masters
-2/7/20,Google,"New York, NY",0,0,Full Stack,Male,
-2/7/20,Google,"New York, NY",0,0,Full Stack,Male,
-2/7/20,Google,"New York, NY",0,0,Full Stack,Male,
+Date,Company,Title,Level,Standard Level,Skill Index,Location,Total Yearly Compensation,Base Salary (/year),Stock Grant (/year),Bonus (/year),Years of Experience,Years at Company,Tag,Gender,Other Details
+2/7/20,Bloomberg,Software Engineer,Senior Software Engineer,Staff Engineer,65.59,"New York, NY",181000,157000,,24000,6,6,Full Stack,Male,Masters
+2/9/20,Bloomberg,Software Engineer,Software Engineer,Entry Level Engineer,15.59,"New York, NY",155000,140000,,15000,0,0,Full Stack,Male,
+2/9/20,Bloomberg,Software Engineer,Software Engineer,Entry Level Engineer,15.59,"Skillman, NJ",188000,161000,,27000,2,2,Distributed Systems (Back-End),Male,
+2/5/20,Google,Software Engineer,L4,Software Engineer,30.61,"New York Mills, NY",300000,170000,96000,34000,3,3,ML / AI,Male,
+2/5/20,Microsoft,Software Engineer,SDE II,Software Engineer,21.59,"Seattle, WA",173000,130000,30000,13000,2,2,Distributed Systems (Back-End),Male,
+2/5/20,Google,Software Engineer,L4,Software Engineer,30.61,"Mountain View, CA",247000,149000,65000,33000,2,2,API Development (Back-End),Male,Masters
+2/5/20,Microsoft,Software Engineer,SDE II,Software Engineer,21.59,"Bellevue, WA",132000,120000,4000,9000,14,14,Full Stack,Male,Bing
+2/6/20,Amazon,Software Engineer,SDE I,Entry Level Engineer,10.87,"Seattle, WA",170000,135000,,35000,4,1,Full Stack,Male,Masters
+2/6/20,Amazon,Software Engineer,SDE II,Software Engineer,32.61,"Seattle, WA",142000,142000,2000,0,3,3,Full Stack,Male,
+2/6/20,PayPal,Software Engineer,T26,Senior Engineer,54.93,"San Jose, CA",350000,175000,150000,25000,10,6,Full Stack,Male,
+2/6/20,Yahoo,Software Engineer,Software Engineer,Software Engineer,26.06,"Champaign, IL",157000,124000,15000,18000,3,3,Distributed Systems (Back-End),,Masters
+2/6/20,Capital One,Software Engineer,Senior Software Eng,Software Engineer,36.54,"Richmond, VA",139000,127000,2000,12000,6,6,API Development (Back-End),Male,
+2/6/20,Facebook,Software Engineer,E4,Software Engineer,30.3,"San Francisco, CA",360000,185000,100000,75000,5,0,Distributed Systems (Back-End),,
+2/6/20,The New York Times,Software Engineer,Software Engineer,,,"New York, NY",137000,125000,,12000,3,3,Site Reliability (SRE),Female,
+2/6/20,Amazon,Software Engineer,SDE II,Software Engineer,32.61,"Cupertino, CA",210000,160000,50000,0,12,0,Full Stack,,Masters
+2/6/20,Microsoft,Software Engineer,64,Senior Engineer,50.57,"Seattle, WA",280000,175000,90000,15000,13,2,Networking,Male,Masters
+2/6/20,Microsoft,Software Engineer,SDE,Entry Level Engineer,3.98,"Atlanta, GA",161000,104000,32000,25000,0,0,Distributed Systems (Back-End),Male,Masters
+2/6/20,Facebook,Software Engineer,E4,Software Engineer,30.3,"San Francisco, CA",360000,185000,100000,75000,5,0,Distributed Systems (Back-End),,
