@@ -1,8 +1,10 @@
 # Negotiating Your Compensation as a Software Engineer: A Prediction Problem Using Regression Techniques
 
+This repository is the codebase backing [the above titled paper](./Paper.pdf).
+
 ## Quickstart
 
-This repository is the codebase backing the above titled paper. Open the Jupyter notebooks in the top-level directory; they already contain the relevant output. The best order to look at the notebooks would be `Data Cleaning.ipynb`, then `Data Preparation.ipynb`, and finally `Data Prediction/Analysis - Untransformed.ipynb`. Feel free to also look at `Data Prediction/Analysis - Log Transformed.ipynb`, but this notebook doesn't contain the best models and is very similar to the untransformed version. `Data Random Exploration.ipynb` does not provide much value and was purely for personal exploration.
+Open the Jupyter notebooks in the top-level directory; they already contain the relevant output. The best order to look at the notebooks would be `Data Cleaning.ipynb`, then `Data Preparation.ipynb`, and finally `Data Prediction/Analysis - Untransformed.ipynb`. Feel free to also look at `Data Prediction/Analysis - Log Transformed.ipynb`, but this notebook doesn't contain the best models and is very similar to the untransformed version. `Data Random Exploration.ipynb` does not provide much value and was purely for personal exploration.
 
 If you would like to re-run the notebooks, make sure that you have Anaconda installed with all the relevant data analysis packages and install the remaining dependencies with `pip install -r requirements.txt`.
 
@@ -10,7 +12,8 @@ If you would like to re-run the notebooks, make sure that you have Anaconda inst
 
 ```
 .
-├── requirements.txt               
+├── Paper.pdf               
+├── requirements.txt
 ├── Data Cleaning.ipynb
 ├── Data Preparation.ipynb
 ├── Data Prediction/Analysis - Untransformed.ipynb
@@ -24,6 +27,10 @@ If you would like to re-run the notebooks, make sure that you have Anaconda inst
     ├── prepped_comp_data_interactions.csv
     └── site-code/
 ```
+
+### `Paper.pdf`
+
+This is a writeup detailing the process, techniques, and findings of this project.
 
 ### `requirements.txt`
 
